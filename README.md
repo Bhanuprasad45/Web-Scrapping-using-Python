@@ -1,0 +1,2 @@
+# Web-Scrapping-using-Python
+The dataset used in this tutorial was taken from a 10K race that took place in Hillsboro, OR on June 2017. Specifically, you will analyze the performance of the 10K runners and answer questions such as:  • What was the average finish time for the runners?  • Did the runners' finish times follow a normal distribution?  • Were there any performance differences between males and females of various age groups?
